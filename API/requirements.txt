@@ -1,0 +1,6 @@
+Flask
+Flask-RESTful
+Pillow
+numpy
+tensorflow==2.15.0
+keras==2.15.0
